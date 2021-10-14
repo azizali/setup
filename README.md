@@ -17,6 +17,8 @@ Run these two commands:
 - workflowy
 - Google Drive
 - git
+- source tree
+- postman
 
 ## Terminal
 ### iterm2 natural escaping option + arrow
@@ -32,7 +34,21 @@ https://apple.stackexchange.com/questions/154292/iterm-going-one-word-backwards-
 https://ohmyz.sh/#install
 
 ### Git setup - pending
+SSH keys
+git config
+Set your name: `git config --global user.name "Aziz Ali"`
+Set your email address: `git config --global user.email "aziz@ilovecoding.org"`
 Git shortcuts
 
 
+
+
+
+
 ## VS CODE SYNC settings
+
+## Development
+### Node & family
+**nvm** https://github.com/nvm-sh/nvm#installing-and-updating
+**node** `nvm install node`
+**yarn** `npm install -g yarn`
