@@ -6,19 +6,23 @@ Run these two commands:
 1. `killall Finder`
 
 ### Install Apps
-- brew
+#### General
 - spectacle
-- vscode
 - brave
     sync bookmarks
 - slack
-- iterm2
-- mongobooster
 - workflowy
 - Google Drive
+- brew
+
+#### Developer
+- vscode
+- iterm2
 - git
-- source tree
+- sourceTree
 - postman
+- mongobooster
+- docker
 
 ## Terminal
 ### iterm2 natural escaping option + arrow
@@ -39,10 +43,6 @@ git config
 Set your name: `git config --global user.name "Aziz Ali"`
 Set your email address: `git config --global user.email "aziz@ilovecoding.org"`
 Git shortcuts
-
-
-
-
 
 
 ## VS CODE SYNC settings
