@@ -7,21 +7,21 @@ Run these two commands:
 
 ### Install Apps
 #### General
-- spectacle
-- brave
+- https://www.spectacleapp.com/
+- https://brave.com/download/
     sync bookmarks
-- slack
-- workflowy
-- Google Drive
+- https://apps.apple.com/us/app/slack-for-desktop/id803453959?mt=12
+- https://workflowy.com/downloads/windows/
+- https://www.google.com/drive/download/
 - https://brew.sh/
 
 #### Developer
-- vscode
-- iterm2
-- sourceTree
-- postman
-- mongobooster
-- docker
+- https://code.visualstudio.com/
+- https://iterm2.com/
+- https://www.sourcetreeapp.com/
+- https://www.postman.com/
+- https://nosqlbooster.com/downloads
+- https://www.docker.com/products/docker-desktop
 
 #### Brew install
 -  `brew install git`
