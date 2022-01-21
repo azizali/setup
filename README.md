@@ -13,16 +13,19 @@ Run these two commands:
 - slack
 - workflowy
 - Google Drive
-- brew
+- https://brew.sh/
 
 #### Developer
 - vscode
 - iterm2
-- git
 - sourceTree
 - postman
 - mongobooster
 - docker
+
+#### Brew install
+-  `brew install git`
+-  
 
 ## Terminal
 ### iterm2 natural escaping option + arrow
