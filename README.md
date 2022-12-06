@@ -40,12 +40,46 @@ https://apple.stackexchange.com/questions/154292/iterm-going-one-word-backwards-
 ### ZSH setup
 https://ohmyz.sh/#install
 
-### Git setup - pending
+### Git setup
 SSH keys
 git config
-Set your name: `git config --global user.name "Aziz Ali"`
-Set your email address: `git config --global user.email "aziz@ilovecoding.org"`
-Git shortcuts
+`code ~/.gitconfig`
+contents of `.gitconfig`
+```
+[user]
+	email = aziz@.org
+	name = Aziz Ali
+[core]
+	excludesfile = /Users/azizali/.gitignore_global
+[difftool "sourcetree"]
+	cmd = opendiff \"$LOCAL\" \"$REMOTE\"
+	path = 
+[mergetool "sourcetree"]
+	cmd = /Applications/Sourcetree.app/Contents/Resources/opendiff-w.sh \"$LOCAL\" \"$REMOTE\" -ancestor \"$BASE\" -merge \"$MERGED\"
+	trustExitCode = true
+[alias]
+	b = branch
+	
+	co = checkout
+	cob = checkout -b
+	
+	com = commit -m
+	
+	pl = pull
+	plo = pull origin
+	plom = pull origin main
+	
+	ps = push
+	pso = push origin
+	psom = push origin main
+
+	r = rebase
+	ri = rebase -i
+	riom = rebase -i origin/main
+
+	rsh = reset --hard
+	rss = reset --soft
+```
 
 
 ## VS CODE SYNC settings
