@@ -7,21 +7,24 @@ Run these two commands:
 
 ### Install Apps
 #### General
-- https://www.spectacleapp.com/
+- https://brew.sh/
 - https://brave.com/download/
     sync bookmarks
+- `brew install spectacle workflowy iterm2 sourcetree postman git nvm`
+	- https://www.spectacleapp.com/ (brew)
+	- https://workflowy.com/downloads/windows/ (brew)
+ 	- https://iterm2.com/ (brew)
+	- https://www.sourcetreeapp.com/ (brew)
+	- https://www.postman.com/ (brew)
+ 	- Node version manager
+  	- git  
 - https://apps.apple.com/us/app/slack-for-desktop/id803453959?mt=12
-- https://workflowy.com/downloads/windows/
-- https://www.google.com/drive/download/
-- https://brew.sh/
+- https://www.google.com/drive/download/ 
 
 #### Developer
 - https://code.visualstudio.com/
-- https://iterm2.com/
-- https://www.sourcetreeapp.com/
-- https://www.postman.com/
-- https://nosqlbooster.com/downloads
 - https://www.docker.com/products/docker-desktop
+- https://nosqlbooster.com/downloads
 
 #### Brew install
 -  `brew install git`
